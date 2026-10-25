@@ -1,6 +1,6 @@
 # Kultmeister
 
-**Premium-Web-Studio — kuratierte, handgefertigte Websites.**
+**Premium-Web-Studio.**
 
 Schnell, mehrsprachig und datensparsam: statische Sites (Astro), Performance-first,
 mit strengen Qualitäts- und Security-Gates.
